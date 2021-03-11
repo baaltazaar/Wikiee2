@@ -70,7 +70,6 @@ kramdown:
   
 defaults:
  - 
-    auto_ids: "false"
     scope:
      path: "wiki"
     values:
