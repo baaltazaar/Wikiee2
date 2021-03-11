@@ -1,17 +1,18 @@
 # Welcome to the 2nd Taxonomy! 
+{:.no_toc}
 
 A framework to describe and classify terms.
 
 *This is a test repository!*
 
-## [# 1. Aa](Aa.md)
+## [# Aa](Aa.md)
 
-## [# 2. Bb](Bb.md)
+## [# Bb](Bb.md)
 
-## [# 3. Cc](Cc.md)
+## [# Cc](Cc.md)
 
-## [# 4. Dd](Dd.md)
+## [# Dd](Dd.md)
 
-## [# 5. Ee](Ee.md)
+## [# Ee](Ee.md)
 
-## [# 6. Ff](Ff.md)
+## [# Ff](Ff.md)
