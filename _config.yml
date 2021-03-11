@@ -46,7 +46,7 @@ search_engine : "js"
 # Setting google custom search engine for google
 # cse search bar (https://cse.google.it/cse/)
 # google_cse_token: 
-
+service: github
 # (string) path of site root. Normally it's must be empty because _config.yml resides in the root of your repository.
 # If you have _config.yml and your site in a subfolder, then change this config accordly 
 site_root: 
@@ -65,9 +65,6 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
  auto_ids: false
- footnote_nr: 1
- entity_output: as_char
- toc_levels: 2..5
  input: GFM
  syntax_highlighter: rouge
 
@@ -82,6 +79,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "git-wiki-default"
+      toc: 
  -
     scope:
       path: ""
