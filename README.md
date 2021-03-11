@@ -10,7 +10,7 @@ A framework to describe and classify terms.
 
 ## [# Cc](Cc.md)
 
-## [# Dd](Dd.md*)
+## [# Dd](Dd.md)
 
 ## [# Ee](Ee.md)
 
