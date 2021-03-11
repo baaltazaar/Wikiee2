@@ -61,42 +61,42 @@ site_root:
 # git-wiki includes some internal themes that you can choose
 # check _layouts folder
 #
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-defaults:
- - 
-    scope:
-      path: "wiki"
-    values:
-      permalink: /:basename
- -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "git-wiki-default"
- -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "git-wiki-default"
- -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "git-wiki-post"
- -
-    scope:
-      path: blog
-    values:
-      layout: "git-wiki-blog"
-sass:
-    style: default
+# markdown: kramdown
+# highlighter: rouge
+# kramdown:
+#  input: GFM
+#  syntax_highlighter: rouge
+#
+# defaults:
+# - 
+#    scope:
+#      path: "wiki"
+#    values:
+#      permalink: /:basename
+# -
+#    scope:
+#      path: "" # an empty string here means all files in the project
+#    values:
+#      layout: "git-wiki-default"
+# -
+#    scope:
+#     path: ""
+#     type: "pages"
+#    values:
+#      layout: "git-wiki-default"
+# -
+#    scope:
+#      path: ""
+#      type: "posts"
+#    values:
+#      layout: "git-wiki-post"
+# -
+#    scope:
+#      path: blog
+#    values:
+#      layout: "git-wiki-blog"
+# sass:
+#    style: compressed
 # plugins:
 #  - jekyll-avatar
 #  - jekyll-coffeescript
