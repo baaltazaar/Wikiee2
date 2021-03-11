@@ -1,6 +1,3 @@
-
-<div align="center"> 
-  
 # Welcome to the 2nd Taxonomy!
 {:.no_toc} 
 
