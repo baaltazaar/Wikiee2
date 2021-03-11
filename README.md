@@ -1,5 +1,6 @@
 # Welcome to the 2nd Taxonomy! 
 {: .no_toc}
+
 A framework to describe and classify terms.
 
 *This is a test repository!*
