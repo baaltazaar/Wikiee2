@@ -1,10 +1,10 @@
 
-# Welcome to the 2nd Taxonomy!
+<div align="center"> # Welcome to the 2nd Taxonomy!
 {:.no_toc} 
 
-A framework to describe and classify terms.
+<div align="center"> A framework to describe and classify terms.
 
-*This is a test repository!*
+<div align="center"> *This is a test repository!*
 
 ## [# Aa](Aa.md) [# Gg](Gg.md) [# Mm](Mm.md) 
 {:.no_toc}
