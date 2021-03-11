@@ -3,7 +3,7 @@ remote_theme: Drassil/git-wiki-theme@master
 title: "Wikiee2"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
-baseurl: "/Wikiee2"
+baseurl: 
 # (string) Description of your wiki
 # description: The Taxonomy Home!
 # (boolean) Enable/disable wiki page list in sidebar
@@ -27,7 +27,7 @@ git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url: /assets/images/1200px-Wikipedia-logo-v2.svg_.png
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
-google_analytics: 
+# google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
 wiki_folder: "wiki"
 # (boolean) if you're using github wiki as submodule then this config
