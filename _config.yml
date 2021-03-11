@@ -75,7 +75,6 @@ defaults:
     values:
       permalink: /:basename
       toc: false
-       no_toc_section_class: exclude
  -
     scope:
       path: "" # an empty string here means all files in the project
