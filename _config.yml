@@ -62,9 +62,9 @@ site_root:
 # check _layouts folder
 #
  markdown: kramdown
-  highlighter: rouge
-# kramdown:
-#  input: GFM
+ highlighter: rouge
+ kramdown:
+  input: GFM
 #  syntax_highlighter: rouge
 #
 # defaults:
