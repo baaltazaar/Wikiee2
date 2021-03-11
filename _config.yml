@@ -72,35 +72,35 @@ defaults:
  - 
     scope:
       path: "wiki"
+      toc: "false"
     values:
       permalink: /:basename
-      toc: "false"
  -
     scope:
       path: "" # an empty string here means all files in the project
-    values:
-      layout: "git-wiki-default"
       toc: "false"
+    values:
+      layout: "git-wiki-default"  
  -
     scope:
       path: ""
       type: "pages"
-    values:
-      layout: "git-wiki-default"
       toc: "false"
+    values:
+      layout: "git-wiki-default"  
  -
     scope:
       path: ""
       type: "posts"
-    values:
-      layout: "git-wiki-post"
       toc: "false"
+    values:
+      layout: "git-wiki-post"      
  -
     scope:
       path: blog
+      toc: "false"
     values:
       layout: "git-wiki-blog"
-      toc: "false"
       
 sass:
     style: compressed
