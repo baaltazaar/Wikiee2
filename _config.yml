@@ -64,7 +64,6 @@ site_root:
 markdown: kramdown
 highlighter: rouge
 kramdown:
- auto_ids: "false"
  input: GFM
  syntax_highlighter: rouge
 
@@ -74,12 +73,12 @@ defaults:
       path: "wiki"
     values:
       permalink: /:basename
+      toc: false
  -
     scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "git-wiki-default"
-      toc: 
  -
     scope:
       path: ""
