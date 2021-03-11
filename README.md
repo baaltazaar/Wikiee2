@@ -1,5 +1,5 @@
 # Welcome to the 2nd Taxonomy! 
-{: .no_toc}
+`{:.no_toc}
 
 A framework to describe and classify terms.
 
