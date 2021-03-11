@@ -61,7 +61,6 @@ site_root:
 # git-wiki includes some internal themes that you can choose
 # check _layouts folder
 #
-toc: false
 markdown: kramdown
 highlighter: rouge
 kramdown:
