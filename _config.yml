@@ -61,18 +61,18 @@ site_root:
 # git-wiki includes some internal themes that you can choose
 # check _layouts folder
 #
- markdown: kramdown
- highlighter: rouge
- kramdown:
-  input: GFM
-#  syntax_highlighter: rouge
-#
-# defaults:
-# - 
-#    scope:
-#      path: "wiki"
-#    values:
-#      permalink: /:basename
+markdown: kramdown
+highlighter: rouge
+kramdown:
+ input: GFM
+ syntax_highlighter: rouge
+  
+defaults:
+ - 
+    scope:
+     path: "wiki"
+    values:
+     permalink: /:basename
 # -
 #    scope:
 #      path: "" # an empty string here means all files in the project
