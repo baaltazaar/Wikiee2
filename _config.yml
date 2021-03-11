@@ -61,7 +61,7 @@ site_root:
 # git-wiki includes some internal themes that you can choose
 # check _layouts folder
 #
-markdown: kramdown
+markdown: kramdown --no-auto-ids 
 highlighter: rouge
 kramdown:
  input: GFM
@@ -73,13 +73,11 @@ defaults:
      path: "wiki"
     values:
      permalink: /:basename
-     auto_ids: false 
  -
     scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "git-wiki-default"
-      auto_ids: false 
  -
     scope:
      path: ""
