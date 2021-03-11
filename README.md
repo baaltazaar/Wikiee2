@@ -6,7 +6,7 @@ A framework to describe and classify terms.
 
 *This is a test repository!*
 
-## [# Aa](Aa.md)
+## [# Aa](Aa.md) [# Gg](Gg.md) [# Mm](Mm.md) 
 {:.no_toc}
 
 ## [# Bb](Bb.md)
