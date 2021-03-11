@@ -1,5 +1,4 @@
 ## Aa 
-`{:.no_toc}
 
 Text text
 
