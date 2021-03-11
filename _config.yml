@@ -66,10 +66,10 @@ highlighter: rouge
 kramdown:
  input: GFM
  syntax_highlighter: rouge
- auto_ids: "false"
   
 defaults:
  - 
+    auto_ids: "false"
     scope:
      path: "wiki"
     values:
