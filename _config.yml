@@ -74,12 +74,15 @@ defaults:
       path: "wiki"
     values:
       permalink: /:basename
+      toc: false
+       no_toc_section_class: exclude
  -
     scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "git-wiki-default"
       toc: false
+       no_toc_section_class: exclude
       
  -
     scope:
@@ -88,6 +91,7 @@ defaults:
     values:
       layout: "git-wiki-default"
       toc: false
+       no_toc_section_class: exclude
  -
     scope:
       path: ""
@@ -95,12 +99,14 @@ defaults:
     values:
       layout: "git-wiki-post"
       toc: false
+       no_toc_section_class: exclude
  -
     scope:
       path: blog
     values:
       layout: "git-wiki-blog"
       toc: false
+       no_toc_section_class: exclude
       
 sass:
     style: compressed
