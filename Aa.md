@@ -1,4 +1,6 @@
 ## Aa 
+`{:.no_toc}
+
 Text text
 
 ### [AAA](/wiki/AAA.md)
