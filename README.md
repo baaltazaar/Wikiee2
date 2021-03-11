@@ -4,14 +4,14 @@ A framework to describe and classify terms.
 
 *This is a test repository!*
 
-## [# Aa](Aa.md)
+## [# 1. Aa](Aa.md)
 
-## [# Bb](Bb.md)
+## [# 2. Bb](Bb.md)
 
-## [# Cc](Cc.md)
+## [# 3. Cc](Cc.md)
 
-## [# Dd](Dd.md)
+## [# 4. Dd](Dd.md)
 
-## [# Ee](Ee.md)
+## [# 5. Ee](Ee.md)
 
-## [# Ff](Ff.md)
+## [# 6. Ff](Ff.md)
