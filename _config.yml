@@ -65,7 +65,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
  input: GFM
- auto_ids: false
+ auto_ids: "false"
  syntax_highlighter: rouge
 
 defaults:
