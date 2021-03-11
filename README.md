@@ -1,4 +1,6 @@
-# Welcome to the 2nd Taxonomy! 
+toc: false
+
+# Welcome to the 2nd Taxonomy! ¨
 
 A framework to describe and classify terms.
 
@@ -7,6 +9,7 @@ A framework to describe and classify terms.
 ## [# Aa](Aa.md)
 
 ## [# Bb](Bb.md)
+
 
 ## [# Cc](Cc.md)
 
